@@ -1,0 +1,12 @@
+name: BukkitConsumableStorage
+main: me.Jonnyfant.BukkitConsumableStorage.BukkitConsumableStorage
+author: Jonnyfant
+version: 1.1
+commands:
+  consumablestorage:
+    usage: /<command>
+    permission: consumablestorage.use
+permissions:
+  consumablestorage.use:
+    default: true
+
